@@ -1,0 +1,10 @@
+{
+	"log"			:	"Log",
+	"token"			:	"b655ccb1ca652edcc7f3e22b9996dff6c4a6a7c81996a8cc30f068cb",
+	"timeout"		: 	60,
+	"kickoff_days"	: 	365,
+	"time_len"		: 	5,
+	"start_date"	: 	"20140101",
+	"end_date"		: 	"20200830",
+	"patent_type"	:	"invention, utility"
+}
